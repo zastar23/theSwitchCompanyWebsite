@@ -1,0 +1,32 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "name": "Mihai Petrus",
+      "imgsrc": "/mihai-petrus-portrait.webp",
+      "ModalImg": "/mihai-modal-pic.webp",
+      "functions": ["CEO", "RPA Developer & Trainer", "Chatbots Developer"],
+      "modalText": [
+        "A calm, humble and meticulous automation developer and RPA trainer, Mihai has been expanding what is possible with automation in order to make life more efficient. He has been in the information technology field since 2015, outlining his knowledge through Faculty of Informatic & Economics, Academy +Plus & Betfair Romania Development. Nowdays Mihai proudly leads The Switch Company as a CEO, being also a Co-Founder.",
+        "Delivering new and innovative solutions for a myriad of different situations, he is admired for shattering and driving radical growth records. Mihai is a trusted RPA expert with a remarkable history of creating major impact through his projects, designing highly efficient robots, optimizing staff & business performance.",
+        "He is well known in the field for his distinct approach for resolving the most complicated situations through automation and his dedication. His current responsibilities include not only RPA with overseeing and managing new projects within his department, but also highlighting new skills within Front End Development.",
+        "Utilizing all his knowledge and understanding in the IT field, he helps guide a company through decisions regarding implementation of new technology as well as their security risks. Mihai has always been an advocate for the responsible use and development of technology and is a role he continues to play since he started this company."
+      ],
+      "linkedinLink": "https://www.linkedin.com/in/mihai-petrus-06b42b135/"
+    },
+    {
+      "id": 2,
+      "name": "Florena Ciril",
+      "imgsrc": "/florena-portrait.webp",
+      "ModalImg": "/florena-modal-pic.webp",
+      "functions": ["Graphic & Brand Identity Designer", "UI/UX & Web Designer", "Social Media Marketing Specialist", "Product Photographer"],
+      "modalText": [
+        "Florena Ciril takes every opportunity to improve her skills in this professional environment since 2015.",
+        "Being very adaptable, innovative and having a positive dose of impatience she doesn't wait for things to happen. She makes them happen, all the while infusing the teams she leads with an infectious energy and passion that empowers them to think big and set strech goals. She pursues these goals with such an intensity and focus that anything but success is unthinkable and impossible to negotiate.",
+        "Her recent career includes co-founding The Switch Company, where she leads as a CMO. With a broad portfolio of creative experience and a deep understanding of the psychology behind each project, she balances each product to create positive feedback from both user experiences and business needs.",
+        "She helps brands thrive by creating distinctive logos and visual identities, perfecting social media profiles tailored to today's trends, and turning every idea into a prototype with impact and unicity, for top companies and innovative bussinesses."
+      ],
+      "linkedinLink": "https://www.linkedin.com/in/florena-ciril/"
+    }
+  ]
+}

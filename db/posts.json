@@ -1,0 +1,249 @@
+{
+  "posts": [
+    {
+      "postId": "1",
+      "postImg": "/blog-1-bg.webp",
+      "postTitle": "RPA benefits in human resources",
+      "postArticleTitle": {
+        "whiteText": "RPA",
+        "blueText": ["benefits in", "management"],
+        "textWithEffect": "human resource"
+      },
+      "postCardParagraph": "By transferring routine and repetitive work on HR professionals to RPA, they can shift their focus from the routine and prioritize tasks where their people’s skills are needed.",
+      "postDate": {
+        "day": "08",
+        "month": "January",
+        "year": "2022"
+      },
+      "postDomain": ["RPA", "HR", "UI Path"],
+      "postArticle1": {
+        "title": "Why HR operations need to be modernized?",
+        "paragraphs": [
+          "When the company grows, the big hurdle HR managers face is to find a balance in managing the quantitative and qualitative tasks",
+          "Quantitative tasks are time-consuming, repetitive, involve a lot of paperwork, and above all, it’s BORING!",
+          "Wouldn’t it be better if the HR executives are relieved from the quantitative works so that they can focus more on qualitative works? And that is where RPA technology can help."
+        ]
+      },
+      "postArticle2": {
+        "title": "Use cases of RPA in HR",
+        "subarticles": {
+          "subarticle1": {
+            "nr": "#1",
+            "title": "recruitment",
+            "paragraphs": [
+              "Entrust candidate pre-screening to bots! ",
+              "You will no longer need to manually go through the applications of the candidates who haven’t even bothered to read the job description until the end, who are just wasting your time.",
+              "With RPA you can set the skills and experience as a predefined rule which will then guide the selection process. The bots will make a short-list of suitable candidates, send out interview invitations and rejection letters",
+              "RPA bots can quickly draft an offer letter by auto filling the necessary information (company details, candidate name, position title, job responsibilities, preferred starting date, and salary) from a database, and send it to the candidate"
+            ]
+          },
+          "subarticle2": {
+            "nr": "#2",
+            "title": "oboarding new hires",
+            "paragraphs": [
+              "With RPA, you can create an onboarding workflow for each position within your company. The bots will use these rules you set forth and grant access to all the necessary systems, apps, folders, can send out onboarding paperwork, etc. "
+            ]
+          },
+          "subarticle3": {
+            "nr": "#3",
+            "title": "payroll manegement",
+            "paragraphs": [
+              "RPA bots are extremely accurate. They will work with  thousands of employee details, numbers. mails and payment processes without mistake.",
+              "Triggered in the exact payment day, the bots will ease the HR and finance teams work."
+            ]
+          },
+          "subarticle4": {
+            "nr": "#4",
+            "title": "reporting",
+            "paragraphs": [
+              "Size matters. The bigger the company, the more difficult it is to upkeep records in compliance with the constantly changing labor laws.",
+              "Bots will cross-check expense reasoning with internal and external expenditure norms, notify employees, and request additional documentation."
+            ]
+          }
+        }
+      },
+      "quote": "“The advantages go far beyond financial gains, and actually puts people first.”",
+      "postArticle3": {
+        "title": "RPA benefits in human resource management",
+        "paragraphs": [
+          "By transferring routine and repetitive work on HR professionals to RPA, they can shift their focus from the routine and prioritize tasks where their people’s skills are needed.",
+          "HR will devote time to a wide range of valuable tasks such as talent management, performance, or other employees, and increase their competitive advantage.",
+          "Digitally transformed companies will gain the inevitable performance and staff motivation.",
+          "The advantages go far beyond financial gains, and actually puts people first."
+        ]
+      }
+    },
+    {
+      "postId": "2",
+      "postImg": "/blog-bg.webp",
+      "postTitle": "Hate it? Automate it.",
+      "postArticleTitle": {
+        "textWithEffect": "hate it?",
+        "blueText": ["", "automate it."]
+      },
+      "postCardParagraph": "Let robots automate repetitive and manual tasks that consumes your time.  What is RPA? Benefits for your business.",
+      "postDate": {
+        "day": "08",
+        "month": "January",
+        "year": "2022"
+      },
+      "postDomain": ["RPA", "HR", "UI Path"],
+      "postArticle1": {
+        "title": "RPA. what is it?",
+        "paragraphs": [
+          "ROBOTIC PROCESS AUTOMATION. It is the term used for software robots that partially or completely automate manual, repetitive and rule-based processes.",
+          "Software robots do repetitive and less valuable things, such as connecting to applications and systems, moving files and folders, extracting, copying and inserting data, filling out forms and routine reports.",
+          "Advanced robots can even perform cognitive processes, such as interpreting text, engaging in chats and conversations, understanding unstructured data, and applying artificial intelligence to make complex decisions.",
+          "When robots perform these repetitive, high-volume tasks, employees can focus on the things they do best: innovation, collaboration, creation, and customer interaction."
+        ]
+      },
+      "postArticle2": {
+        "title": "How can RPA help my business?",
+        "subarticles": {
+          "subarticle1": {
+            "nr": "#1",
+            "title": "cost reduction & efficiency",
+            "paragraphs": [
+              "In general, a single robot can be equal to two to five full-time employees or even more. Robots never need a break, they can work 24/7. They can complete a larger workload in less time."
+            ]
+          },
+          "subarticle2": {
+            "nr": "#2",
+            "title": "increases productivity",
+            "paragraphs": [
+              "Employees benefit because these robots eliminate repetitive activities and reduce load pressure. This makes employees more productive and in turn, they help avoid future costs."
+            ]
+          },
+          "subarticle3": {
+            "nr": "#3",
+            "title": "rapid return on investment (ROI)",
+            "paragraphs": ["It is implemented quickly, does not require changes to existing systems and is profitable, the profit being visible in less than a year."]
+          },
+          "subarticle4": {
+            "nr": "#4",
+            "title": "improved analysis",
+            "paragraphs": [
+              "RPA technologies allow organizations to gather data on the execution of tasks that can be used for analytical purposes.",
+              "The company can identify gaps in which processes could be further streamlined to increase efficiency and enable better decision-making at both the micro and macro levels."
+            ]
+          },
+          "subarticle5": {
+            "nr": "#5",
+            "title": "digital security",
+            "paragraphs": ["Each robot performs individual tasks, so it is impossible to leak information.", "Access to data is well controlled, documented and secure."]
+          },
+          "subarticle6": {
+            "nr": "#6",
+            "title": "process optimization",
+            "paragraphs": ["Processes are simplified, errors eliminated and operational risk is reduced."]
+          },
+          "subarticle7": {
+            "nr": "#7",
+            "title": "improved relationships with customers",
+            "paragraphs": [
+              "Most companies today may have difficulty meeting the extremely varied requirements of their customers.",
+              "However, by adopting RPA technology, routine, repetitive and tedious tasks are taught to robots so that employees can better focus on customer needs."
+            ]
+          },
+          "subarticle8": {
+            "nr": "#8",
+            "title": "control & transparency",
+            "paragraphs": [
+              "The runs of these software robots can be programmed after a certain custom schedule and stopped whenever necessary.",
+              "All actions are recorded and archived, giving you an accurate and detailed audit trail at all times."
+            ]
+          },
+          "subarticle9": {
+            "nr": "#9",
+            "title": "minimum investment",
+            "paragraphs": ["An investment in RPA technology requires minimal initial costs compared to other technologies."]
+          },
+          "subarticle10": {
+            "nr": "#10",
+            "title": "scalability",
+            "paragraphs": [
+              "The automated workforce can be adjusted according to specific requirements, offering flexibility in increasing the volume of tasks performed and reducing the time of their execution."
+            ]
+          },
+          "subarticle11": {
+            "nr": "#11",
+            "title": "advantages over competitors",
+            "paragraphs": [
+              "Technology is evolving far too fast, so businesses have to keep up in order to stay focused on consumers.",
+              "Implementing RPA makes a business much more agile and much more capable of overcoming any impediment."
+            ]
+          },
+          "subarticle12": {
+            "nr": "#12",
+            "title": "independent platform",
+            "paragraphs": [
+              "RPA is easy to implement and has few disruptions, even in older applications so it has become a key factor for digital transformation.",
+              "Robots can even use their own user IDs and passwords, so implementing RPA in a business / institution is not a complex or disruptive approach, as the core technology program remains intact."
+            ]
+          }
+        }
+      },
+      "quote": "“The advantage of the business is that it gets a boost in: profit, productivity, efficiency and cost reduction.”"
+    },
+    {
+      "postId": "3",
+      "postImg": "/blog-bg.webp",
+      "postTitle": "How does RPA work?",
+      "postArticleTitle": {
+        "blueText": ["does RPA", ""],
+        "whiteText": "How",
+        "textWithEffect": "work?"
+      },
+      "postCardParagraph": "RPA has become so widespread because it is generally applicable in businesses or institutions in different fields.",
+      "postDate": {
+        "day": "08",
+        "month": "January",
+        "year": "2022"
+      },
+      "postDomain": ["RPA", "HR", "UI Path"],
+      "postArticle1": {
+        "title": "Where can RPA be implemented?",
+        "paragraphs": [
+          "RPA has become so widespread because it is generally applicable in businesses or institutions in different fields.",
+          "Banking, Insurance, Telecom, Retail",
+          "Technical Support, Technology, Finance, HR, Operations, Procurement",
+          "Sales, Customer Relationship Management"
+        ],
+        "blue-paragraphs": ["Specific Industry Activities", "Activities in Support Functions", "Activities in Commercial Positions"]
+      },
+      "postArticle2": {
+        "title": "How does RPA work?",
+        "subarticles": {
+          "subarticle1": {
+            "nr": "#1",
+            "title": "data processing",
+            "paragraphs": [
+              "Following logical rules based on custom algorithms",
+              "Performing calculations",
+              "Extracting data from documents",
+              "Entering data in forms",
+              "Data extraction and reformatting in reports or dashboards",
+              "Combining data from multiple sources",
+              "Copying and pasting data"
+            ]
+          },
+          "subarticle2": {
+            "nr": "#2",
+            "title": "launching and using various applications",
+            "paragraphs": ["Opening emails and attachments", "Connecting to applications", "Move files and folders"]
+          },
+          "subarticle3": {
+            "nr": "#3",
+            "title": "integration with business applications",
+            "paragraphs": ["Connecting to system APIs", "Reading and writing in databases"]
+          },
+          "subarticle4": {
+            "nr": "#4",
+            "title": "maximizes your data's potential",
+            "paragraphs": ["Taking data from the web, including social media"]
+          }
+        }
+      }
+    }
+  ]
+}
