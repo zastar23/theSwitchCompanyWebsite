@@ -22,6 +22,20 @@
     changePage();
     transitionTo();
   });
+
+  useSeoMeta({
+    title: "The Switch Company",
+    description: "The Switch Company presetantion website regarding their bussines plans, visions, team and services.",
+    author: "Ciril Florena",
+    creator: "Florin Porut",
+    generator: "Nuxt 3",
+    colorScheme: "normal",
+    robots: {
+      index: true,
+      follow: true,
+    },
+    ogUrl: "https://www.theswichcompany.ro",
+  });
 </script>
 
 <template>
