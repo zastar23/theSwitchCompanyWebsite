@@ -86,6 +86,8 @@ How can we help you?"
       display: flex;
       flex-direction: column;
       gap: 2rem;
+      max-width: 1440px;
+      margin: 0 auto;
 
       .footer-content {
         display: flex;
@@ -96,7 +98,7 @@ How can we help you?"
 
         @media (min-width: 1000px) {
           flex-direction: row;
-          align-items: start;
+          align-items: center;
         }
 
         .title {
@@ -126,6 +128,7 @@ How can we help you?"
           @media (min-width: 760px) {
             grid-template-columns: repeat(1, 1fr);
             place-items: center;
+            margin-block-start: 10rem;
           }
 
           label {

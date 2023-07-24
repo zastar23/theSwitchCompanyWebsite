@@ -90,6 +90,10 @@
 </template>
 
 <style scoped lang="scss">
+  .about {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
   .about-intro,
   .about-outro {
     min-height: 100vh;

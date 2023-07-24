@@ -34,6 +34,8 @@
     display: grid;
     grid-template-columns: 100px 1fr;
     background-color: var(--color-neutral-900);
+    max-width: 1440px;
+    margin: 0 auto;
 
     h2 {
       transform: rotate(-90deg);

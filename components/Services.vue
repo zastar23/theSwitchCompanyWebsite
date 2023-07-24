@@ -115,6 +115,7 @@
 
     @media (min-width: 1000px) {
       margin: 0 auto;
+      max-width: 1440px;
     }
 
     h2 {
